@@ -51,7 +51,7 @@ ball.color('white')
 ball.penup() 
 ball.goto(0, 0)
 ball.dx = 0.2 #d means delta (change) and x is the coordinate
-ball.dy = -0.2 #the combination of these two makes the ball move diagonally up right
+ball.dy = -0.2 #the combination of these two makes the ball move diagonally down right
 
 #Pen
 #this is the object that will draw the scores for us
